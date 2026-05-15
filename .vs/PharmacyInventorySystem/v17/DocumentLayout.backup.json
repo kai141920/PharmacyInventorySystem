@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\xampp\\htdocs\\PROJECTS\\updated_pharmacy_ui\\Pharmacy-Inventory-Management-System-main\\C#\\PharmacyInventorySystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{772D4405-A703-4364-A154-293FD515AB54}|PharmacyInventorySystem.csproj|c:\\xampp\\htdocs\\projects\\updated_pharmacy_ui\\pharmacy-inventory-management-system-main\\c#\\pharmacyinventorysystem\\additem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{772D4405-A703-4364-A154-293FD515AB54}|PharmacyInventorySystem.csproj|solutionrelative:additem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{772D4405-A703-4364-A154-293FD515AB54}|PharmacyInventorySystem.csproj|C:\\xampp\\htdocs\\PROJECTS\\updated_pharmacy_ui\\Pharmacy-Inventory-Management-System-main\\C#\\PharmacyInventorySystem\\additem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{772D4405-A703-4364-A154-293FD515AB54}|PharmacyInventorySystem.csproj|solutionrelative:additem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{772D4405-A703-4364-A154-293FD515AB54}|PharmacyInventorySystem.csproj|C:\\xampp\\htdocs\\PROJECTS\\updated_pharmacy_ui\\Pharmacy-Inventory-Management-System-main\\C#\\PharmacyInventorySystem\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{772D4405-A703-4364-A154-293FD515AB54}|PharmacyInventorySystem.csproj|solutionrelative:dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{772D4405-A703-4364-A154-293FD515AB54}|PharmacyInventorySystem.csproj|C:\\xampp\\htdocs\\PROJECTS\\updated_pharmacy_ui\\Pharmacy-Inventory-Management-System-main\\C#\\PharmacyInventorySystem\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{772D4405-A703-4364-A154-293FD515AB54}|PharmacyInventorySystem.csproj|solutionrelative:dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{772D4405-A703-4364-A154-293FD515AB54}|PharmacyInventorySystem.csproj|C:\\xampp\\htdocs\\PROJECTS\\updated_pharmacy_ui\\Pharmacy-Inventory-Management-System-main\\C#\\PharmacyInventorySystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{772D4405-A703-4364-A154-293FD515AB54}|PharmacyInventorySystem.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{772D4405-A703-4364-A154-293FD515AB54}|PharmacyInventorySystem.csproj|C:\\xampp\\htdocs\\PROJECTS\\updated_pharmacy_ui\\Pharmacy-Inventory-Management-System-main\\C#\\PharmacyInventorySystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{772D4405-A703-4364-A154-293FD515AB54}|PharmacyInventorySystem.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\PROJECTS\\updated_pharmacy_ui\\Pharmacy-Inventory-Management-System-main\\C#\\PharmacyInventorySystem\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\PROJECTS\\updated_pharmacy_ui\\Pharmacy-Inventory-Management-System-main\\C#\\PharmacyInventorySystem\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T10:58:57.32Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddItem.cs [Design]",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\PROJECTS\\updated_pharmacy_ui\\Pharmacy-Inventory-Management-System-main\\C#\\PharmacyInventorySystem\\AddItem.cs",
+              "RelativeDocumentMoniker": "AddItem.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\PROJECTS\\updated_pharmacy_ui\\Pharmacy-Inventory-Management-System-main\\C#\\PharmacyInventorySystem\\AddItem.cs [Design]",
+              "RelativeToolTip": "AddItem.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T11:24:53.89Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dashboard.cs [Design]",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\PROJECTS\\updated_pharmacy_ui\\Pharmacy-Inventory-Management-System-main\\C#\\PharmacyInventorySystem\\Dashboard.cs",
+              "RelativeDocumentMoniker": "Dashboard.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\PROJECTS\\updated_pharmacy_ui\\Pharmacy-Inventory-Management-System-main\\C#\\PharmacyInventorySystem\\Dashboard.cs [Design]",
+              "RelativeToolTip": "Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T00:16:34.001Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddItem.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\PROJECTS\\updated_pharmacy_ui\\Pharmacy-Inventory-Management-System-main\\C#\\PharmacyInventorySystem\\AddItem.cs",
+              "RelativeDocumentMoniker": "AddItem.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\PROJECTS\\updated_pharmacy_ui\\Pharmacy-Inventory-Management-System-main\\C#\\PharmacyInventorySystem\\AddItem.cs",
+              "RelativeToolTip": "AddItem.cs",
+              "ViewState": "AgIAAIsAAAAAAAAAAAAwwKYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T00:16:12.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dashboard.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\PROJECTS\\updated_pharmacy_ui\\Pharmacy-Inventory-Management-System-main\\C#\\PharmacyInventorySystem\\Dashboard.cs",
+              "RelativeDocumentMoniker": "Dashboard.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\PROJECTS\\updated_pharmacy_ui\\Pharmacy-Inventory-Management-System-main\\C#\\PharmacyInventorySystem\\Dashboard.cs",
+              "RelativeToolTip": "Dashboard.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAkwDoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T23:32:18.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\PROJECTS\\updated_pharmacy_ui\\Pharmacy-Inventory-Management-System-main\\C#\\PharmacyInventorySystem\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\PROJECTS\\updated_pharmacy_ui\\Pharmacy-Inventory-Management-System-main\\C#\\PharmacyInventorySystem\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAAD4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T23:24:08.196Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
